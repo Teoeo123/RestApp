@@ -1,0 +1,25 @@
+﻿<Window x:Class="RESTApp.Views.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="300" Width="400" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Background="#333333">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="210"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" CornerRadius="10" Background="#444444" HorizontalAlignment="Center" VerticalAlignment="Center" Width="300" Height="200">
+            <StackPanel Margin="20,10,20,10">
+                <TextBlock Text="Login" FontSize="24" FontWeight="Bold" Foreground="white" HorizontalAlignment="Center" Margin="0,10,0,10"/>
+                <TextBlock x:Name ="MessageBlock" Text="" FontSize="12" Foreground="Red" HorizontalAlignment="Center"/>
+                <TextBox x:Name="UsernameTextBox"  Margin="0,10" Height="30" VerticalContentAlignment="Center" FontFamily="KaiTi" FontWeight="Bold" FontSize="15" Foreground="#555555"/>
+                <PasswordBox x:Name="PasswordBox"  Margin="0,10" Height="30" VerticalContentAlignment="Center" FontSize="15" Foreground="#555555"/>
+            </StackPanel>
+        </Border>
+        <Grid Grid.Row="1">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Sing up" Width="100" Background="#555555" Margin="10,10,10,10" Height="30" HorizontalAlignment="Center" VerticalAlignment ="Top"  Click="SingInButton_Click" />
+                <Button Content="Login" Width="100" Background="#555555" Margin="10,10,10,10" Height="30" HorizontalAlignment="Center" VerticalAlignment ="Top"  Click="LoginButton_Click"/>
+            </StackPanel>            
+        </Grid>
+    </Grid>
+</Window>

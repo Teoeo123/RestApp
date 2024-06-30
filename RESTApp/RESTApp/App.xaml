@@ -1,0 +1,58 @@
+﻿<Application x:Class="RESTApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="Views/LoginWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#007ACC"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="RenderTransformOrigin" Value="0.5,0.5"/>
+            <Setter Property="RenderTransform">
+                <Setter.Value>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <!-- Mouse Enter Animation -->
+                <EventTrigger RoutedEvent="Mouse.MouseEnter">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation To="#206C41" Duration="0:0:0.3" Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+
+                <!-- Mouse Leave Animation -->
+                <EventTrigger RoutedEvent="Mouse.MouseLeave">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <ColorAnimation To="#555555" Duration="0:0:0.3" Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+
+                <!-- Button Click Animation -->
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation To="0.9" Duration="0:0:0.1" Storyboard.TargetProperty="(Button.RenderTransform).(ScaleTransform.ScaleX)"/>
+                            <DoubleAnimation To="0.9" Duration="0:0:0.1" Storyboard.TargetProperty="(Button.RenderTransform).(ScaleTransform.ScaleY)"/>
+                            <DoubleAnimation To="1" Duration="0:0:0.1" BeginTime="0:0:0.1" Storyboard.TargetProperty="(Button.RenderTransform).(ScaleTransform.ScaleX)"/>
+                            <DoubleAnimation To="1" Duration="0:0:0.1" BeginTime="0:0:0.1" Storyboard.TargetProperty="(Button.RenderTransform).(ScaleTransform.ScaleY)"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Application.Resources>
+</Application>

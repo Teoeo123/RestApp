@@ -1,0 +1,34 @@
+﻿<Window x:Class="RESTApp.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PostWall" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Header -->
+        <StackPanel Grid.Row="0" Grid.ColumnSpan="2" Orientation="Horizontal" Background="#206C41" Height="50">
+            <TextBlock Text="PostWall" VerticalAlignment="Center" Margin="10,0,0,0" Foreground="White" FontSize="20"/>
+        </StackPanel>
+
+        <!-- Navigation Pane -->
+        <StackPanel Grid.Row="1" Grid.Column="0" Background="#333333">
+            <Button Content="Home" Margin="10" Foreground="White" Background="#555555" BorderBrush="Transparent" Click="HomePageClick"/>
+            <Button Content="Add Post" Margin="10" Foreground="White" Background="#555555" BorderBrush="Transparent" Click="AddPostClick"/>
+            <Button Content="Edit Account" Margin="10" Foreground="White" Background="#555555" BorderBrush="Transparent" Click="EditProfileClick"/>
+            <Button Content="Log Out" Margin="10" Foreground="White" Background="#555555" BorderBrush="Transparent" Click="LogOutClick"/>
+            <!-- Add more buttons as needed -->
+        </StackPanel>
+
+        <!-- Content Area -->
+        <Grid Grid.Row="1" Grid.Column="1" Background="#555555">
+            <GroupBox Name="GbCurrentModule" Header="{Binding CurretModuleName}" BorderThickness="0"/>
+        </Grid>
+    </Grid>
+</Window>

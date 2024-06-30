@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\controls\\addpost.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\controls\\addpost.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\controls\\addpost.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\controls\\addpost.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\controls\\userdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\controls\\userdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\controls\\userdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\controls\\userdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\obj\\Debug\\net6.0-windows\\Controls\\UserDetails.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RESTApp\\obj\\Debug\\net6.0-windows\\Controls\\UserDetails.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\controls\\postcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\controls\\postcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\api\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\api\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\api\\apiinformations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\api\\apiinformations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\classes\\photodownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\classes\\photodownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\api\\apiclasses\\apitoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\api\\apiclasses\\apitoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\controls\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\controls\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\api\\apiclasses\\simpleerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\api\\apiclasses\\simpleerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\api\\apiclasses\\apiuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\api\\apiclasses\\apiuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\restapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\restapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\api\\apiclasses\\apiuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\api\\apiclasses\\apiuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\controls\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\controls\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\controls\\postcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\controls\\postcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|c:\\users\\m.teodorczyk\\desktop\\apkarestowa\\apkarestowa\\restapp\\restapp\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0918FAA-25FB-4CE2-836B-0AFC4A308EBF}|RESTApp\\RESTApp.csproj|solutionrelative:restapp\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 314,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddPost.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\AddPost.xaml.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Controls\\AddPost.xaml.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\AddPost.xaml.cs",
+              "RelativeToolTip": "RESTApp\\Controls\\AddPost.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:13:41.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddPost.xaml",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\AddPost.xaml",
+              "RelativeDocumentMoniker": "RESTApp\\Controls\\AddPost.xaml",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\AddPost.xaml",
+              "RelativeToolTip": "RESTApp\\Controls\\AddPost.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T12:11:49.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiToken.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiClasses\\ApiToken.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Api\\ApiClasses\\ApiToken.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiClasses\\ApiToken.cs",
+              "RelativeToolTip": "RESTApp\\Api\\ApiClasses\\ApiToken.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\UserDetails.xaml",
+              "RelativeDocumentMoniker": "RESTApp\\Controls\\UserDetails.xaml",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\UserDetails.xaml",
+              "RelativeToolTip": "RESTApp\\Controls\\UserDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T18:58:31.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\UserDetails.xaml.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Controls\\UserDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\UserDetails.xaml.cs",
+              "RelativeToolTip": "RESTApp\\Controls\\UserDetails.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RESTApp\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "RESTApp\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T18:58:31.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RESTApp\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "RESTApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "RESTApp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "RESTApp\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "RESTApp\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T18:58:31.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "RESTApp\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAhwEYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiClient.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Api\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiClient.cs",
+              "RelativeToolTip": "RESTApp\\Api\\ApiClient.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAIAwwHMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostControl.xaml",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\PostControl.xaml",
+              "RelativeDocumentMoniker": "RESTApp\\Controls\\PostControl.xaml",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\PostControl.xaml",
+              "RelativeToolTip": "RESTApp\\Controls\\PostControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-23T12:01:49.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDetails.g.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\obj\\Debug\\net6.0-windows\\Controls\\UserDetails.g.cs",
+              "RelativeDocumentMoniker": "RESTApp\\obj\\Debug\\net6.0-windows\\Controls\\UserDetails.g.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\obj\\Debug\\net6.0-windows\\Controls\\UserDetails.g.cs",
+              "RelativeToolTip": "RESTApp\\obj\\Debug\\net6.0-windows\\Controls\\UserDetails.g.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAkwFMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:07:12.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiInformations.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiInformations.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Api\\ApiInformations.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiInformations.cs",
+              "RelativeToolTip": "RESTApp\\Api\\ApiInformations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhotoDownloader.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Classes\\PhotoDownloader.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Classes\\PhotoDownloader.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Classes\\PhotoDownloader.cs",
+              "RelativeToolTip": "RESTApp\\Classes\\PhotoDownloader.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:51:14.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Controls\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\HomePage.xaml.cs",
+              "RelativeToolTip": "RESTApp\\Controls\\HomePage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SimpleErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiClasses\\SimpleErrorResponse.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Api\\ApiClasses\\SimpleErrorResponse.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiClasses\\SimpleErrorResponse.cs",
+              "RelativeToolTip": "RESTApp\\Api\\ApiClasses\\SimpleErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiUser.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiClasses\\ApiUser.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Api\\ApiClasses\\ApiUser.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiClasses\\ApiUser.cs",
+              "RelativeToolTip": "RESTApp\\Api\\ApiClasses\\ApiUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RESTApp.csproj",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\RESTApp.csproj",
+              "RelativeDocumentMoniker": "RESTApp\\RESTApp.csproj",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\RESTApp.csproj",
+              "RelativeToolTip": "RESTApp\\RESTApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T09:50:45.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\HomePage.xaml",
+              "RelativeDocumentMoniker": "RESTApp\\Controls\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\HomePage.xaml",
+              "RelativeToolTip": "RESTApp\\Controls\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T18:58:31.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApiUserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiClasses\\ApiUserDetails.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Api\\ApiClasses\\ApiUserDetails.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Api\\ApiClasses\\ApiUserDetails.cs",
+              "RelativeToolTip": "RESTApp\\Api\\ApiClasses\\ApiUserDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PostControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\PostControl.xaml.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Controls\\PostControl.xaml.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Controls\\PostControl.xaml.cs",
+              "RelativeToolTip": "RESTApp\\Controls\\PostControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "RESTApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\App.xaml.cs",
+              "RelativeToolTip": "RESTApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PostModel.cs",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Models\\PostModel.cs",
+              "RelativeDocumentMoniker": "RESTApp\\Models\\PostModel.cs",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Models\\PostModel.cs",
+              "RelativeToolTip": "RESTApp\\Models\\PostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:58:31.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\App.xaml",
+              "RelativeDocumentMoniker": "RESTApp\\App.xaml",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\App.xaml",
+              "RelativeToolTip": "RESTApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T18:58:31.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "RESTApp\\Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\m.teodorczyk\\Desktop\\ApkaRestowa\\ApkaRestowa\\RESTApp\\RESTApp\\Resources\\Styles.xaml",
+              "RelativeToolTip": "RESTApp\\Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T18:58:31.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
